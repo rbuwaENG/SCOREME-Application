@@ -13,7 +13,7 @@ s11/<type>/<summary_of_user_story>
 ### **Components**
 
 1. **s11**  
-   - This represents the sprint number. Always prefix your branch name with `s11` to indicate the current sprint.
+   - This represents the sprint number. Always prefix your branch name with `s<sprint_Number>` to indicate the current sprint.
 
 2. **<type>**  
    - This defines the purpose of the branch. Use one of the following keywords based on the task type:
